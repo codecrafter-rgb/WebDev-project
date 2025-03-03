@@ -4,20 +4,20 @@ This project is a comprehensive web application built using the MEAN stack(Mongo
 
 ### Key features
 - **Login-logout system:**
-- Secure user authentication(using encryption with salt) with login/logout functionality
-- Session management to maintain user state across the applpication
+  Secure user authentication(using encryption with salt) with login/logout functionality
+  Session management to maintain user state across the applpication
 - **Commenting system:**
-- Allow users to add comments on projects which are displayed on the site.
+  Allow users to add comments on projects which are displayed on the site.
 - **Account management:**
-- User account creation, profile management and changing passwords.
+  User account creation, profile management and changing passwords.
 - **Admin functions**
-- An admin interface for managing and creating user accounts and permissions
+  An admin interface for managing and creating user accounts and permissions
 - **Product ordering functions**
-- Users can order and track projects within the system
-- Sorting and filtering capabilities in the user menu
+  Users can order and track projects within the system
+  Sorting and filtering capabilities in the user menu
 - **Responsive UI:**
-- Built with Bootrstrap for a clean, modern and responsive user interface
-- Desktop and mobile-friendly
+  Built with Bootrstrap for a clean, modern and responsive user interface
+  Desktop and mobile-friendly
 ---------
 Made on Ubuntu/VSC
 
