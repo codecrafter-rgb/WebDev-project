@@ -4,8 +4,8 @@ This project is a comprehensive web application built using the MEAN stack(Mongo
 
 ### Key features
 - **Login-logout system:**
-  Secure user authentication(using encryption with salt) with login/logout functionality
-  Session management to maintain user state across the applpication
+  -  Secure user authentication(using encryption with salt) with login/logout functionality
+  -  Session management to maintain user state across the applpication
 - **Commenting system:**
   Allow users to add comments on projects which are displayed on the site.
 - **Account management:**
