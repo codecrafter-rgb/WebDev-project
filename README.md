@@ -23,4 +23,10 @@ This project is a comprehensive web application built using the MEAN stack(Mongo
 ---------
 Made on Ubuntu/VSC
 
+### Additional photos:
+![Website photo](/photos/Capture.PNG)
+![Website photo](/photos/Capture3.PNG)
+![Website photo](/photos/Capture5.PNG)
+![Website photo](/photos/Capture6.PNG)
+
 
