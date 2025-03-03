@@ -1,4 +1,4 @@
-![Website photo](/photos/pics.png)
+![Website photo](/photos/Capture.png)
 
 ## Introduction to the WebDev project
 
