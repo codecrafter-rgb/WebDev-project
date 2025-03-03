@@ -1,3 +1,5 @@
+![Website photo](/photos/pics.png)
+
 ## Introduction to the WebDev project
 
 This project is a comprehensive web application built using the MEAN stack(MongoDB, Express, Angular, Node.js). It was done as part of the coursework for the course "Programming internet applications". The primary goal was learning the relevant web technologies, both front-end and back-end by making a project that is essentially usable for real-world applications. It features an intuitive and responsive user interface, user management options and product ordering. Below are the key features in more detail.
